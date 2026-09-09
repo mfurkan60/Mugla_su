@@ -1,0 +1,6 @@
+{
+  "name": "Muğla Su",
+  "description": "Muğla Ortaköy ve çevresinde hızlı ev ve iş yeri damacana su servisi, kaliteli ve doğal kaynak suyu siparişi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
