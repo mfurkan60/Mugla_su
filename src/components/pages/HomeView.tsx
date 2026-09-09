@@ -58,7 +58,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onNavigate }) => {
           {/* Subtle background image overlay */}
           <div className="absolute inset-0 opacity-15 mix-blend-overlay pointer-events-none">
             <img
-              src="/assets/hero.jpg"
+              src="/assets/akdoruk-su-urunleri.jpg"
               alt="Akdoruk doğal kaynak suyu ürünleri ve 19 litre damacana"
               className="w-full h-full object-cover"
               width="1024"

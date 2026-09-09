@@ -71,7 +71,7 @@ export const BRANDS_INFO: Record<WaterBrand, BrandDetail> = {
       'Tam otomatik hijyenik dolum tesisleri',
       'Hücresel hidrasyon ve sindirim dostu yapı'
     ],
-    imageUrl: '/assets/hero.jpg',
+    imageUrl: '/assets/akdoruk-su-urunleri.jpg',
     minerals: AKDORUK_MINERALS
   },
   'Topçam': {
@@ -89,7 +89,7 @@ export const BRANDS_INFO: Record<WaterBrand, BrandDetail> = {
       'Çay ve kahvede tortu bırakmayan berrak demleme',
       '3.2 mg/L ultra düşük sodyum oranıyla tansiyon dostu'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     minerals: TOPCAM_MINERALS
   }
 };
@@ -110,7 +110,7 @@ export const PRODUCTS: ProductItem[] = [
       'Ortaköy bölgesine 30-45 dk hızlı teslimat',
       'Boş damacana değişimiyle anında teslim'
     ],
-    imageUrl: '/assets/services_2.jpeg',
+    imageUrl: '/assets/akdoruk-damacana-su.jpeg',
     isPopular: true
   },
   {
@@ -127,7 +127,7 @@ export const PRODUCTS: ProductItem[] = [
       'Doğal dağ pınarı mineral dengesini en üst düzeyde korur',
       'Düzenli sterilizasyon ve hijyen denetimi'
     ],
-    imageUrl: '/assets/hero.jpg',
+    imageUrl: '/assets/akdoruk-su-urunleri.jpg',
     isPopular: false
   },
   {
@@ -144,7 +144,7 @@ export const PRODUCTS: ProductItem[] = [
       'BPA içermeyen güvenilir gıda sınıfı ambalaj',
       '4 adet 5L ekonomik koli avantajı'
     ],
-    imageUrl: '/assets/services_.jpg',
+    imageUrl: '/assets/akdoruk-bardak-su.jpg',
     isPopular: true
   },
   {
@@ -161,7 +161,7 @@ export const PRODUCTS: ProductItem[] = [
       '2\'li koli halinde kapınıza kadar servis',
       'Yüksek mineral ve zengin magnezyum'
     ],
-    imageUrl: '/assets/hero.jpg',
+    imageUrl: '/assets/akdoruk-su-urunleri.jpg',
     isPopular: false
   },
   {
@@ -178,7 +178,7 @@ export const PRODUCTS: ProductItem[] = [
       '24\'lü hijyenik korumalı koli ambalajı',
       'Yumuşak ve taze alkali içim'
     ],
-    imageUrl: '/assets/services_.jpg',
+    imageUrl: '/assets/akdoruk-bardak-su.jpg',
     isPopular: false
   },
   {
@@ -195,7 +195,7 @@ export const PRODUCTS: ProductItem[] = [
       'Günlük su ihtiyacınızı kolayca takip edin',
       'Buz gibi serinletici kaynak suyu'
     ],
-    imageUrl: '/assets/hero.jpg',
+    imageUrl: '/assets/akdoruk-su-urunleri.jpg',
     isPopular: false
   },
   {
@@ -212,7 +212,7 @@ export const PRODUCTS: ProductItem[] = [
       'Dökülme ve israfı önleyen kilitli kapak',
       'Toptan alımlara özel avantajlı fiyat'
     ],
-    imageUrl: '/assets/services_.jpg',
+    imageUrl: '/assets/akdoruk-bardak-su.jpg',
     isPopular: false
   },
 
@@ -231,7 +231,7 @@ export const PRODUCTS: ProductItem[] = [
       'İpeksi yumuşak içim & çayda tortu bırakmayan saflık',
       'Muğla Ortaköy’e hızlı kapıya taşıma garantisi'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: true
   },
   {
@@ -248,7 +248,7 @@ export const PRODUCTS: ProductItem[] = [
       'Madran pınarının minerallerini taptaze muhafaza eder',
       'Boş cam şişe ile birebir değişim avantajı'
     ],
-    imageUrl: '/assets/topçam_servces1.jpg',
+    imageUrl: '/assets/topcam-madran-logo.jpg',
     isPopular: false
   },
   {
@@ -265,7 +265,7 @@ export const PRODUCTS: ProductItem[] = [
       'Kolay taşınabilir ergonomik kulp tasarımı',
       'BPA içermeyen dayanıklı pet gövde'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: true
   },
   {
@@ -282,7 +282,7 @@ export const PRODUCTS: ProductItem[] = [
       'Standart pompalarla uyumlu ağız yapısı',
       'Madran zirve pınarı güvencesi'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: false
   },
   {
@@ -299,7 +299,7 @@ export const PRODUCTS: ProductItem[] = [
       'Düşük sodyum oranıyla ferahlatıcı etki',
       'Ofis ve toplantı ikramlarına uygun'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: false
   },
   {
@@ -316,7 +316,7 @@ export const PRODUCTS: ProductItem[] = [
       'Yemeklerin doğal lezzetini öne çıkarır',
       'Ekonomik koli avantajı'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: false
   },
   {
@@ -333,7 +333,7 @@ export const PRODUCTS: ProductItem[] = [
       'Etkinlik ve toplu ikramlar için ideal',
       'Toptan alımlarda indirimli fiyat'
     ],
-    imageUrl: '/assets/topçam_services2.jpeg',
+    imageUrl: '/assets/topcam-logo.jpeg',
     isPopular: false
   }
 ];
